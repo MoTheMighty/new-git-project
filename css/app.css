@@ -2,7 +2,7 @@ body {
     background-color: #00cae4;
 }
 
-.destination:hover h2 {
+.destination:hover h2 {ddd
     transform: rotate(0deg);
 }
 
@@ -12,3 +12,4 @@ h2 {
     transition: transform 0.5s;
     text-shadow: 0 0 5px #01579b;
 }
+#some descriptive wordsd
